@@ -1,8 +1,0 @@
-package com.internousdev.webproj3.dao;
-
-import java.sql.Connection;
-import java.sql.PrepareStatement;
-
-public class HelloStrutsDAO {
-
-}
