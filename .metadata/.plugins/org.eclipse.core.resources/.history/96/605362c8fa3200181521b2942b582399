@@ -1,0 +1,8 @@
+package com.internousdev.webproj2.dao;
+
+public class HelloStrutsDAO {
+	public boolean select(){
+		boolean ret=false;
+		DBConnector db=new DBConnector();
+	}
+}
