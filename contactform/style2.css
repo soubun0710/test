@@ -1,0 +1,9 @@
+h1{
+    border-left: solid red;
+    padding-left: 10px;
+    background-color: gainsboro;
+}
+div{
+    background-color: gainsboro;
+    padding: 10px;
+}
