@@ -15,3 +15,17 @@
 0:0:0:0:0:0:0:1 - - [02/Apr/2018:16:45:55 +0900] "POST /WebProj3/HelloStrutsAction.action HTTP/1.1" 200 -
 0:0:0:0:0:0:0:1 - - [02/Apr/2018:16:45:57 +0900] "POST /WebProj3/HelloStrutsAction.action HTTP/1.1" 200 -
 0:0:0:0:0:0:0:1 - - [02/Apr/2018:16:45:58 +0900] "POST /WebProj3/HelloStrutsAction.action HTTP/1.1" 200 9436
+127.0.0.1 - - [02/Apr/2018:16:46:25 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [02/Apr/2018:16:46:28 +0900] "GET /WebProj2/ HTTP/1.1" 200 1113
+0:0:0:0:0:0:0:1 - - [02/Apr/2018:16:46:32 +0900] "POST /WebProj2/HelloStrutsAction.action;jsessionid=5B7E7EAA0F7F7DC34E3EEC500DB7DAD1 HTTP/1.1" 200 9436
+0:0:0:0:0:0:0:1 - - [02/Apr/2018:16:46:36 +0900] "POST /WebProj2/WelcomeAction.action;jsessionid=5B7E7EAA0F7F7DC34E3EEC500DB7DAD1 HTTP/1.1" 200 842
+0:0:0:0:0:0:0:1 - - [02/Apr/2018:16:46:39 +0900] "POST /WebProj2/InquiryAction.action;jsessionid=5B7E7EAA0F7F7DC34E3EEC500DB7DAD1 HTTP/1.1" 200 943
+0:0:0:0:0:0:0:1 - - [02/Apr/2018:16:46:43 +0900] "POST /WebProj2/HelloStrutsAction.action;jsessionid=5B7E7EAA0F7F7DC34E3EEC500DB7DAD1 HTTP/1.1" 200 9436
+0:0:0:0:0:0:0:1 - - [02/Apr/2018:16:50:27 +0900] "GET /WebProj3/ HTTP/1.1" 200 422
+0:0:0:0:0:0:0:1 - - [02/Apr/2018:16:50:32 +0900] "GET /WebProj3/HelloStrutsAction HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [02/Apr/2018:16:50:34 +0900] "GET /WebProj3/HelloStrutsAction HTTP/1.1" 200 9436
+0:0:0:0:0:0:0:1 - - [02/Apr/2018:16:50:37 +0900] "GET /WebProj3/WelcomeAction HTTP/1.1" 200 3443
+0:0:0:0:0:0:0:1 - - [02/Apr/2018:16:51:01 +0900] "GET /WebProj3/ HTTP/1.1" 200 536
+0:0:0:0:0:0:0:1 - - [02/Apr/2018:16:51:06 +0900] "GET /WebProj3/HelloStrutsAction HTTP/1.1" 200 9436
+0:0:0:0:0:0:0:1 - - [02/Apr/2018:16:51:15 +0900] "POST /WebProj3/WelcomeAction HTTP/1.1" 200 3443
+0:0:0:0:0:0:0:1 - - [02/Apr/2018:16:51:19 +0900] "POST /WebProj3/WelcomeAction HTTP/1.1" 200 3443
