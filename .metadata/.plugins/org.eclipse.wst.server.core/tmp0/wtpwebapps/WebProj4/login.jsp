@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<link rel="stylesheet" type="text/css" href=",/css/style.css">
+<link rel="stylesheet" type="text/css" href="./css/style.css">
 <title>LOGIN</title>
 </head>
 <body>
@@ -20,7 +20,7 @@
 <tr>
 <s:iterator value="loginDTOList">
 	<td><s:property value="username"/></td>
-	<td><s:property value="pasword"/></td>
+	<td><s:property value="password"/></td>
 </s:iterator>
 </tr>
 </tbody>
