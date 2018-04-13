@@ -16,7 +16,7 @@ public class HelloStrutsAction extends ActionSupport {
 
 		HelloStrutsDTOList=dao.select();
 
-		if(HelloStrutsDTOList.size()>0){
+		if(HelloStrutsDTOList.size()==3){
 			ret=SUCCESS;
 		}else{
 			ret=ERROR;
